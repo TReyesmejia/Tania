@@ -1,2 +1,1 @@
-# Tania
-es una prueba para saber comandos
+Esto es un ensaño de prueba
